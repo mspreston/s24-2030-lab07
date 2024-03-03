@@ -2,7 +2,7 @@
 
 Tuesday, March 5th
 
-**Due**: By the end of the lab (Friday, March 8th)
+**Due**: By the end of the day (Sunday, March 10th)
 
 **Instructions**  
 For this lab, you will gain additional exposure to working with inheritance and polymorphism in Python. To do this, we will extend your implementation of the Learning Management System (LMS) in Lab06.  
